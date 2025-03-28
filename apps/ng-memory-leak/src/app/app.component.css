@@ -1,0 +1,7 @@
+body {
+    height: 5000px; /* Adjust this value to control the page length */
+    background-color: powderblue;
+}
+.content {
+    padding: 20px;
+}
